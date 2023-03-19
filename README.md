@@ -29,10 +29,10 @@
   <p align="center">
 We will be working with Netflix data and observing the kind of content that consumers most like to watch. In addition, we would like to evaluate the motivations behind the types of content people like to watch. Do they watch for escapism? Maybe they work in entertainment and watch content to study best practices or compare their style with that of others. Do viewers watch content because they want to learn about certain topics or locations? While all of these situations are true for some, this project will look at the intersection of popular media, its popularity and ratings, and demographics.
 
-    <br />
-    <a href="https://github.com/christianrhodes18/movie-tv-tracker"><strong>Explore the docs (here)»</strong></a>
-    <br />
-    <br />
+<br />
+<a href="https://github.com/christianrhodes18/Netflix-Motivations"><strong>Explore the docs (here)»</strong></a>
+<br />
+<br />
     <a href="">View Demo (Not Live yet)</a>
     ·
     <a href="https://github.com/christianrhodes18/Netflix-Motivations/issues">Report Bug</a>
