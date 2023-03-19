@@ -96,6 +96,42 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [ ] Week 1 (3-13-2023)
+    - [ ] Find partner for project - present project proposal
+    - [ ] Exchange contact info with partner and establish communication method and general availability
+- [ ] Week 2 (3-20-2023)
+    - [ ] Verify validity of problem statement - specify or modify if necessary
+    - [ ] Finalize stretch goals
+    - [ ] Make meeting plan and agree on logistics
+    - [ ] Traverse data to get familiar it
+- [ ] Week 3 (3-27-2023)
+    - [ ] Create GitHub repo and begin code
+    - [ ] Create a pandas dataframe and begin data cleaning
+    - [ ] Begin EDA - add / remove features, handle null values, etc.
+- [ ] Week 4 (4-03-2023)
+    - [ ] Explore relationships of genre / IMDB ratings and IMDB popularity
+    - [ ] Explore description text data - bag-of-words, term frequency
+    - [ ] Create linear model (if time permits)
+- [ ] Week 5 (4-10-2023)
+    - [ ] Create linear model (if wasn’t accomplished last week)
+    - [ ] Tune model; audition different models and inputs
+    - [ ] Create visualizations to help assess model effectiveness and make readable conclusions
+- [ ] Week 6 (4-17-2023)
+    - [ ] Finalize model - test the test and validation datasets for accuracy
+    - [ ] Make analyses 
+    - [ ] Begin report outline
+- [ ] Week 7 (4-24-2023)
+    - [ ] Make presentation and prepare to present to class. All visualizations should be prepared and the process of data cleaning, EDA, modeling, analysis, etc. that was documented should be gathered and presented succinctly. 
+- [ ] Week 8 (5-01-2023)
+    - [ ] Write-up complete and present
+
+See the [open issues](https://github.com/christianrhodes18/movie-tv-tracker/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -139,45 +175,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Week 1 (3-13-2023)
-    - [ ] Find partner for project - present project proposal
-    - [ ] Exchange contact info with partner and establish communication method and general availability
-- [ ] Week 2 (3-20-2023)
-    - [ ] Verify validity of problem statement - specify or modify if necessary
-    - [ ] Finalize stretch goals
-    - [ ] Make meeting plan and agree on logistics
-    - [ ] Traverse data to get familiar it
-- [ ] Week 3 (3-27-2023)
-    - [ ] Create GitHub repo and begin code
-    - [ ] Create a pandas dataframe and begin data cleaning
-    - [ ] Begin EDA - add / remove features, handle null values, etc.
-- [ ] Week 4 (4-03-2023)
-    - [ ] Explore relationships of genre / IMDB ratings and IMDB popularity
-    - [ ] Explore description text data - bag-of-words, term frequency
-    - [ ] Create linear model (if time permits)
-- [ ] Week 5 (4-10-2023)
-    - [ ] Create linear model (if wasn’t accomplished last week)
-    - [ ] Tune model; audition different models and inputs
-    - [ ] Create visualizations to help assess model effectiveness and make readable conclusions
-- [ ] Week 6 (4-17-2023)
-    - [ ] Finalize model - test the test and validation datasets for accuracy
-    - [ ] Make analyses 
-    - [ ] Begin report outline
-- [ ] Week 7 (4-24-2023)
-    - [ ] Make presentation and prepare to present to class. All visualizations should be prepared and the process of data cleaning, EDA, modeling, analysis, etc. that was documented should be gathered and presented succinctly. 
-- [ ] Week 8 (5-01-2023)
-    - [ ] Write-up complete and present
-
-See the [open issues](https://github.com/christianrhodes18/movie-tv-tracker/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
