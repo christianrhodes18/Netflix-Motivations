@@ -24,19 +24,20 @@
     <img src="README_images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Movie and TV Tracker App</h3>
+<h3 align="center">Netflix Motivations - Data Science Project</h3>
 
   <p align="center">
-    This project was inspired by the tracking and rating systems from Letterboxd. I want to make a clean and minimalistic interface where users can search and view any movie, add it to their list and rate it. 
+We will be working with Netflix data and observing the kind of content that consumers most like to watch. In addition, we would like to evaluate the motivations behind the types of content people like to watch. Do they watch for escapism? Maybe they work in entertainment and watch content to study best practices or compare their style with that of others. Do viewers watch content because they want to learn about certain topics or locations? While all of these situations are true for some, this project will look at the intersection of popular media, its popularity and ratings, and demographics.
+
     <br />
     <a href="https://github.com/christianrhodes18/movie-tv-tracker"><strong>Explore the docs (here)»</strong></a>
     <br />
     <br />
     <a href="">View Demo (Not Live yet)</a>
     ·
-    <a href="https://github.com/christianrhodes18/movie-tv-tracker/issues">Report Bug</a>
+    <a href="https://github.com/christianrhodes18/Netflix-Motivations/issues">Report Bug</a>
     ·
-    <a href="https://github.com/christianrhodes18/movie-tv-tracker/issues">Request Feature</a>
+    <a href="https://github.com/christianrhodes18/Netflix-Motivations/issues">Request Feature</a>
   </p>
 </div>
 
@@ -144,10 +145,34 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Week 1 (3-13-2023)
+    - [ ] Find partner for project - present project proposal
+    - [ ] Exchange contact info with partner and establish communication method and general availability
+- [ ] Week 2 (3-20-2023)
+    - [ ] Verify validity of problem statement - specify or modify if necessary
+    - [ ] Finalize stretch goals
+    - [ ] Make meeting plan and agree on logistics
+    - [ ] Traverse data to get familiar it
+- [ ] Week 3 (3-27-2023)
+    - [ ] Create GitHub repo and begin code
+    - [ ] Create a pandas dataframe and begin data cleaning
+    - [ ] Begin EDA - add / remove features, handle null values, etc.
+- [ ] Week 4 (4-03-2023)
+    - [ ] Explore relationships of genre / IMDB ratings and IMDB popularity
+    - [ ] Explore description text data - bag-of-words, term frequency
+    - [ ] Create linear model (if time permits)
+- [ ] Week 5 (4-10-2023)
+    - [ ] Create linear model (if wasn’t accomplished last week)
+    - [ ] Tune model; audition different models and inputs
+    - [ ] Create visualizations to help assess model effectiveness and make readable conclusions
+- [ ] Week 6 (4-17-2023)
+    - [ ] Finalize model - test the test and validation datasets for accuracy
+    - [ ] Make analyses 
+    - [ ] Begin report outline
+- [ ] Week 7 (4-24-2023)
+    - [ ] Make presentation and prepare to present to class. All visualizations should be prepared and the process of data cleaning, EDA, modeling, analysis, etc. that was documented should be gathered and presented succinctly. 
+- [ ] Week 8 (5-01-2023)
+    - [ ] Write-up complete and present
 
 See the [open issues](https://github.com/christianrhodes18/movie-tv-tracker/issues) for a full list of proposed features (and known issues).
 
@@ -185,9 +210,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Christian Rhodes - [@twitter_handle](https://twitter.com/chrisrhodesy) - thechristianrhodes@gmail.com
+Christian Rhodes - [@chrisrhodesy](https://twitter.com/chrisrhodesy) - thechristianrhodes@gmail.com
 
-Project Link: [https://github.com/christianrhodes18/movie-tv-tracker](movie-tv-tracker)
+Project Link: [https://github.com/christianrhodes18/Netflix-Motivations](netflix-motivations)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
