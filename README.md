@@ -99,16 +99,16 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Week 1 (3-13-2023)
-    - [ ] Find partner for project - present project proposal
-    - [ ] Exchange contact info with partner and establish communication method and general availability
-- [ ] Week 2 (3-20-2023)
-    - [ ] Verify validity of problem statement - specify or modify if necessary
-    - [ ] Finalize stretch goals
-    - [ ] Make meeting plan and agree on logistics
-    - [ ] Traverse data to get familiar it
+- [x] Week 1 (3-13-2023)
+    - [x] Find partner for project - present project proposal
+    - [x] Exchange contact info with partner and establish communication method and general availability
+- [x] Week 2 (3-20-2023)
+    - [x] Verify validity of problem statement - specify or modify if necessary
+    - [x] Finalize stretch goals
+    - [x] Make meeting plan and agree on logistics
+    - [x] Traverse data to get familiar it
 - [ ] Week 3 (3-27-2023)
-    - [ ] Create GitHub repo and begin code
+    - [x] Create GitHub repo and begin code
     - [ ] Create a pandas dataframe and begin data cleaning
     - [ ] Begin EDA - add / remove features, handle null values, etc.
 - [ ] Week 4 (4-03-2023)
