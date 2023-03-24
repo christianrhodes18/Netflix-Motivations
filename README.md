@@ -84,7 +84,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![pandas][pandas.py]][pandas-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,5 +236,5 @@ Project Link: [https://github.com/christianrhodes18/Netflix-Motivations](netflix
 [product-screenshot]: https://github.com/christianrhodes18/movie-tv-tracker/README_images/screenshot.png
 
 
-[pandas.py]: https://img.shields.io/static/v1?label=<pandas>&message=<python_library>&color=<COLOR>?style=for-the-badge&logo=appveyor
+[pandas.py]: https://img.shields.io/static/v1?label=pandas&message=python+library&color=<COLOR>?style=for-the-badge&logo=appveyor
 [pandas-url]: https://pandas.pydata.org/
