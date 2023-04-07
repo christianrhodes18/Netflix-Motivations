@@ -102,7 +102,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     - [x] Traverse data to get familiar it
 - [ ] Week 3 (3-27-2023)
     - [x] Create GitHub repo and begin code
-    - [ ] Create a pandas dataframe and begin data cleaning
+    - [x] Create a pandas dataframe and begin data cleaning
     - [ ] Begin EDA - add / remove features, handle null values, etc.
 - [ ] Week 4 (4-03-2023)
     - [ ] Explore relationships of genre / IMDB ratings and IMDB popularity
