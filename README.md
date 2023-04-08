@@ -100,12 +100,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     - [x] Finalize stretch goals
     - [x] Make meeting plan and agree on logistics
     - [x] Traverse data to get familiar it
-- [ ] Week 3 (3-27-2023)
+- [x] Week 3 (3-27-2023)
     - [x] Create GitHub repo and begin code
     - [x] Create a pandas dataframe and begin data cleaning
-    - [ ] Begin EDA - add / remove features, handle null values, etc.
+    - [x] Begin EDA - add / remove features, handle null values, etc.
 - [ ] Week 4 (4-03-2023)
-    - [ ] Explore relationships of genre / IMDB ratings and IMDB popularity
+    - [x] Explore relationships of genre / IMDB ratings and IMDB popularity
     - [ ] Explore description text data - bag-of-words, term frequency
     - [ ] Create linear model (if time permits)
 - [ ] Week 5 (4-10-2023)
