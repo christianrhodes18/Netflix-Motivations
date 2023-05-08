@@ -104,21 +104,22 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     - [x] Create GitHub repo and begin code
     - [x] Create a pandas dataframe and begin data cleaning
     - [x] Begin EDA - add / remove features, handle null values, etc.
-- [ ] Week 4 (4-03-2023)
+- [x] Week 4 (4-03-2023)
     - [x] Explore relationships of genre / IMDB ratings and IMDB popularity
-    - [ ] Explore description text data - bag-of-words, term frequency
-    - [ ] Create linear model (if time permits)
-- [ ] Week 5 (4-10-2023)
-    - [ ] Create linear model (if wasn’t accomplished last week)
-    - [ ] Tune model; audition different models and inputs
-    - [ ] Create visualizations to help assess model effectiveness and make readable conclusions
-- [ ] Week 6 (4-17-2023)
-    - [ ] Finalize model - test the test and validation datasets for accuracy
-    - [ ] Make analyses 
-    - [ ] Begin report outline
-- [ ] Week 7 (4-24-2023)
-    - [ ] Make presentation and prepare to present to class. All visualizations should be prepared and the process of data cleaning, EDA, modeling, analysis, etc. that was documented should be gathered and presented succinctly. 
+    - [x] Explore description text data - bag-of-words, term frequency
+    - [x] Create linear model (if time permits)
+- [x] Week 5 (4-10-2023)
+    - [x] Create linear model (if wasn’t accomplished last week)
+    - [x] Tune model; audition different models and inputs
+    - [x] Create visualizations to help assess model effectiveness and make readable conclusions
+- [x] Week 6 (4-17-2023)
+    - [x] Finalize model - test the test and validation datasets for accuracy
+    - [x] Make analyses 
+    - [x] Begin report outline
+- [x] Week 7 (4-24-2023)
+    - [x] Make presentation and prepare to present to class. All visualizations should be prepared and the process of data cleaning, EDA, modeling, analysis, etc. that was documented should be gathered and presented succinctly. 
 - [ ] Week 8 (5-01-2023)
+    - [ ] refine normalization, tune models, update slides + analysis
     - [ ] Write-up complete and present
 
 See the [open issues](https://github.com/christianrhodes18/movie-tv-tracker/issues) for a full list of proposed features (and known issues).
