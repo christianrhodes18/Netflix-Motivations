@@ -30,18 +30,7 @@
 We will be working with Netflix data and observing the kind of content that consumers most like to watch. In addition, we would like to evaluate the motivations behind the types of content people like to watch. Do they watch for escapism? Maybe they work in entertainment and watch content to study best practices or compare their style with that of others. Do viewers watch content because they want to learn about certain topics or locations? While all of these situations are true for some, this project will look at the intersection of popular media, its popularity and ratings, and demographics.
 
 <br />
-<a href="https://github.com/christianrhodes18/Netflix-Motivations"><strong>Explore the docs (here)»</strong></a>
 <br />
-<br />
-    <a href="">View Demo (Not Live yet)</a>
-    ·
-    <a href="https://github.com/christianrhodes18/Netflix-Motivations/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/christianrhodes18/Netflix-Motivations/issues">Request Feature</a>
-  </p>
-</div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -53,16 +42,7 @@ We will be working with Netflix data and observing the kind of content that cons
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -74,9 +54,6 @@ We will be working with Netflix data and observing the kind of content that cons
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/christianrhodes18/movie-tv-tracker/README_images/screenshot.png)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +61,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![pandas][pandas.py]][pandas-url]
+* Pandas
+* NumPy
+* ScikitLearn
+* Matplot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,9 +98,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     - [x] Begin report outline
 - [x] Week 7 (4-24-2023)
     - [x] Make presentation and prepare to present to class. All visualizations should be prepared and the process of data cleaning, EDA, modeling, analysis, etc. that was documented should be gathered and presented succinctly. 
-- [ ] Week 8 (5-01-2023)
-    - [ ] refine normalization, tune models, update slides + analysis
-    - [ ] Write-up complete and present
+- [x] Week 8 (5-01-2023)
+    - [x] refine normalization, tune models, update slides + analysis
+    - [x] Write-up complete and present
 
 See the [open issues](https://github.com/christianrhodes18/movie-tv-tracker/issues) for a full list of proposed features (and known issues).
 
@@ -141,52 +121,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -212,9 +147,8 @@ Project Link: [https://github.com/christianrhodes18/Netflix-Motivations](netflix
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* UVM CS287 Class and Professor Nick Cheney
+* Victor Soeiro for [the Dataset](https://www.kaggle.com/victorsoeiro/netflix-tv-shows-and-movies)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
